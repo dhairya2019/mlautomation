@@ -139,7 +139,7 @@ confusion_matrix(y_test, y_pred)
 from sklearn.metrics import accuracy_score
 
 
-# In[25]:
+
 
 
 print(accuracy_score(y_test, y_pred))
